@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sonic Pattern Symposium
-date: 2015-11-18
+date: 2015-06-17
 ---
 
 [Sonic Pattern and the Textility of Code](http://sonicpattern.com/) is

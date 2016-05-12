@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uncanny Valley
-date: 2015-11-21
+date: 2015-09-07
 ---
 
 Uncanny Valley was a 2-3 day group residency organised by LoveBytes
