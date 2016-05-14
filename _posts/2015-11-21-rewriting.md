@@ -34,6 +34,8 @@ hosting us. Tyne and Wear Museums, Mining Institute and Newcastle City
 Library for supporting us through their expertise and access to online
 archival resources.
 
+You can read some [reflections from participants](http://rewritingthehack.github.io/reflections.html), and also a [report from Rosa Menkman](http://rosa-menkman.blogspot.co.uk/2016/05/re-writing-hack.html) on the project she carried out with Aude Charillon.
+
 * http://rewritingthehack.github.io/
 * http://inhabitingthehack.github.io/
 * http://communitiesandculture.org/
